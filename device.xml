@@ -10,7 +10,7 @@
   <!-- Vendor -->
   <project path="vendor/xiaomi/sm8350-common" name="android_vendor_xiaomi_sm8350-common" remote="device" />
   <project path="vendor/xiaomi/renoir" name="android_vendor_xiaomi_renoir" remote="device" />
-  <!-- Vendor -->
+  <!-- Hardware -->
   <project path="hardware/xiaomi" name="crdroidandroid/android_hardware_xiaomi" remote="crdroid" />
   <!-- Additional -->
   <project path="vendor/bcr" name="vendor_bcr_renoir" remote="device" />
